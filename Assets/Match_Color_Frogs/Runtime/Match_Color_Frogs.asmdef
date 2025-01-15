@@ -1,0 +1,22 @@
+{
+    "name": "com.appidea.MiniGamePlatform.Match_Color_Frogs",
+    "rootNamespace": "com.appidea.MiniGamePlatform.Match_Color_Frogs",
+    "references": [
+        "com.appidea.MiniGamePlatform.CommunicationAPI",
+        "Unity.Addressables",
+        "Unity.ResourceManager",
+        "spine-unity",
+        "Unity.InputSystem",
+        "Unity.TextMeshPro",
+        "spine-csharp"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
